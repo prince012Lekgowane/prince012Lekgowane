@@ -17,35 +17,6 @@ I'm a passionate developer focused on full-stack mobile & web development, creat
 
 <div align="center">
 
-### TlofTlof - Social Connections App
-[![TlofTlof](https://firebasestorage.googleapis.com/v0/b/flutter-fef59.appspot.com/o/59927(3).png?alt=media&token=1724207b-3304-4602-912d-aa7f3266b81a)](https://play.google.com/store/apps/details?id=com.batau.tloftlof)
-
-**TlofTlof** is revolutionizing casual connections in South Africa. Swipe, match, join tonight's plans, and earn money through ads just by using the app. Your perfect connection is just a swipe away!
-
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.batau.tloftlof)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tlofapp.vercel.app/)
-
----
-
-### SparkSync - Dating & Events App
-[![SparkSync](https://firebasestorage.googleapis.com/v0/b/flutter-fef59.appspot.com/o/unnamed.png?alt=media&token=5f09deed-05e6-4d22-98dc-4762253218de)](https://play.google.com/store/apps/details?id=com.batau.spark)
-
-**SparkSync** is revolutionizing dating in South Africa. Swipe, match, join local events, and earn 50% of ad revenue just by using the app. Your perfect match is just a swipe away!
-
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.batau.spark)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sparksync.vercel.app/)
-
----
-
-### BaRz - Music Creation & Streaming
-[![BaRz](https://firebasestorage.googleapis.com/v0/b/flutter-fef59.appspot.com/o/ChatGPT_Image_Oct_27__2025__03_11_20_AM-removebg-preview(1).png?alt=media&token=0432ef8c-9a7d-4ae6-8eee-f77f2269a616)](https://play.google.com/store/apps/details?id=com.example.zenith)
-
-**BaRz** is a powerful music creation & streaming mobile application that lets you earn as you create and stream.
-
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.example.zenith)
-
----
-
 ### ZenithAI - Learning Companion
 [![ZenithAI](https://loadly.io/image/view/app_icons/c4beb13f454f48e6d6e8bc14888fa86f/256)](https://loadly.io/zenithai)
 
@@ -82,6 +53,53 @@ I'm a passionate developer focused on full-stack mobile & web development, creat
 
 [![Download](https://img.shields.io/badge/Download-FF6B6B?style=for-the-badge&logo=download&logoColor=white)](https://loadly.io/CoVNZDbA)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/batau)
+
+---
+
+### Dots Game - Puzzle Challenge
+[![Dots Game](https://play-lh.googleusercontent.com/RX-Ah8zKA7FjGCDHYb7nrHp6s7J3_WWJkmZfpOBUGkU2m1OoDAJuzNUkeTkF1yctbA=w240-h480)](https://play.google.com/store/apps/details?id=com.bataudev.play.dots&hl=en_ZA)
+
+**Dots Game** is a challenging and addictive puzzle game where you connect dots to create lines and complete levels. Test your strategic thinking and problem-solving skills!
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bataudev.play.dots&hl=en_ZA)
+
+---
+
+### Smego App - Social Platform
+[![Smego App](https://play-lh.googleusercontent.com/OIfI4liAQJ71KaKXdCZLfh2JjNJ_OtOFRgwqBZe3KHKSJbAE-2tlsXTCW6oXb1XSfA=w240-h480)](https://play.google.com/store/search?q=smego+app&c=apps&hl=en_ZA)
+
+**Smego App** is a innovative social platform that connects people through shared interests and activities. Discover new communities and make meaningful connections.
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/search?q=smego+app&c=apps&hl=en_ZA)
+
+---
+
+### TlofTlof - Social Connections App
+[![TlofTlof](https://firebasestorage.googleapis.com/v0/b/flutter-fef59.appspot.com/o/59927(3).png?alt=media&token=1724207b-3304-4602-912d-aa7f3266b81a)](https://play.google.com/store/apps/details?id=com.batau.tloftlof)
+
+**TlofTlof** is revolutionizing casual connections in South Africa. Swipe, match, join tonight's plans, and earn money through ads just by using the app. Your perfect connection is just a swipe away!
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.batau.tloftlof)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tlofapp.vercel.app/)
+
+---
+
+### SparkSync - Dating & Events App
+[![SparkSync](https://firebasestorage.googleapis.com/v0/b/flutter-fef59.appspot.com/o/unnamed.png?alt=media&token=5f09deed-05e6-4d22-98dc-4762253218de)](https://play.google.com/store/apps/details?id=com.batau.spark)
+
+**SparkSync** is revolutionizing dating in South Africa. Swipe, match, join local events, and earn 50% of ad revenue just by using the app. Your perfect match is just a swipe away!
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.batau.spark)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sparksync.vercel.app/)
+
+---
+
+### BaRz - Music Creation & Streaming
+[![BaRz](https://firebasestorage.googleapis.com/v0/b/flutter-fef59.appspot.com/o/ChatGPT_Image_Oct_27__2025__03_11_20_AM-removebg-preview(1).png?alt=media&token=0432ef8c-9a7d-4ae6-8eee-f77f2269a616)](https://play.google.com/store/apps/details?id=com.example.zenith)
+
+**BaRz** is a powerful music creation & streaming mobile application that lets you earn as you create and stream.
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.example.zenith)
 
 </div>
 
