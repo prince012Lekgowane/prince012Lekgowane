@@ -1,215 +1,457 @@
 # Hi 👋 I'm Tumelo Prince Lekgowane
 
-### Mobile App Developer, Web Developer & Full-Stack Developer
-
-I'm a passionate developer focused on full-stack mobile & web development, creating innovative solutions that bridge the digital gap. I specialize in building cross-platform applications with modern technologies.
-
-*   🌍  Based in Pretoria, South Africa
-*   🖥️  See my portfolio at [My Portfolio](http://batau.vercel.app/)
-*   ✉️  Contact me at [princelekgowane@gmail.com](mailto:princelekgowane@gmail.com)
-*   🚀  Currently working on multiple innovative mobile applications
-*   🧠  Learning Training LLM's and AI/ML technologies
-*   👥  Open to collaborating on interesting projects
-
-## 🚀 My Projects
-
-### Mobile Applications
-
 <div align="center">
 
-### ZenithAI - Learning Companion
-[![ZenithAI](https://loadly.io/image/view/app_icons/c4beb13f454f48e6d6e8bc14888fa86f/256)](https://loadly.io/zenithai)
+### Full-Stack Developer | Mobile App Specialist | AI/ML Enthusiast
 
-**ZenithAI** is the ultimate AI-powered learning companion that revolutionizes how you study, practice, and succeed. Perfect for students, professionals, and lifelong learners.
-
-[![Download](https://img.shields.io/badge/Download-FF6B6B?style=for-the-badge&logo=download&logoColor=white)](https://loadly.io/zenithai)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://prince012lekgowane.github.io/zenithai/)
-
----
-
-### NoesisAI - News & Markets Guide
-[![NoesisAI](https://loadly.io/image/view/app_icons/2ae032439770d11c98c5ed8666e3ef3b/256)](https://loadly.io/noesisai)
-
-**NoesisAI** is your AI-powered guide to news and markets. Get real-time analysis, personalized insights, and smart recommendations to navigate the world with confidence.
-
-[![Download](https://img.shields.io/badge/Download-FF6B6B?style=for-the-badge&logo=download&logoColor=white)](https://loadly.io/noesisai)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://prince012lekgowane.github.io/noesis/)
-
----
-
-### EaziHail - Taxi Navigation
-[![EaziHail](https://loadly.io/image/view/app_icons/93efb1b6f34949337cd283cd1f20ded2/256)](https://loadly.io/eazihail)
-
-**EaziHail** helps you navigate South Africa's minibus taxi routes. Find your route, track taxis in real-time, and get fare details for a smarter, faster commute across Mzansi.
-
-[![Download](https://img.shields.io/badge/Download-FF6B6B?style=for-the-badge&logo=download&logoColor=white)](https://loadly.io/eazihail)
-
----
-
-### Sepulana Heritage - Cultural App
-[![Sepulana](https://loadly.io/image/view/app_icons/7335041cce55a7ad5c669d84b52c3ed3/256)](https://loadly.io/CoVNZDbA)
-
-**Sepulana Heritage** explores the rich history, traditions, and language of the Batau tribe with Sepulana Heritage.
-
-[![Download](https://img.shields.io/badge/Download-FF6B6B?style=for-the-badge&logo=download&logoColor=white)](https://loadly.io/CoVNZDbA)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/batau)
-
----
-
-### Dots Game - Puzzle Challenge
-[![Dots Game](https://play-lh.googleusercontent.com/RX-Ah8zKA7FjGCDHYb7nrHp6s7J3_WWJkmZfpOBUGkU2m1OoDAJuzNUkeTkF1yctbA=w240-h480)](https://play.google.com/store/apps/details?id=com.bataudev.play.dots&hl=en_ZA)
-
-**Dots Game** is a challenging and addictive puzzle game where you connect dots to create lines and complete levels. Test your strategic thinking and problem-solving skills!
-
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bataudev.play.dots&hl=en_ZA)
-
----
-
-### Smego App - Social Platform
-[![Smego App](https://play-lh.googleusercontent.com/OIfI4liAQJ71KaKXdCZLfh2JjNJ_OtOFRgwqBZe3KHKSJbAE-2tlsXTCW6oXb1XSfA=w240-h480)](https://play.google.com/store/search?q=smego+app&c=apps&hl=en_ZA)
-
-**Smego App** is a innovative social platform that connects people through shared interests and activities. Discover new communities and make meaningful connections.
-
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/search?q=smego+app&c=apps&hl=en_ZA)
-
----
-
-### TlofTlof - Social Connections App
-[![TlofTlof](https://firebasestorage.googleapis.com/v0/b/flutter-fef59.appspot.com/o/59927(3).png?alt=media&token=1724207b-3304-4602-912d-aa7f3266b81a)](https://play.google.com/store/apps/details?id=com.batau.tloftlof)
-
-**TlofTlof** is revolutionizing casual connections in South Africa. Swipe, match, join tonight's plans, and earn money through ads just by using the app. Your perfect connection is just a swipe away!
-
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.batau.tloftlof)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tlofapp.vercel.app/)
-
----
-
-### SparkSync - Dating & Events App
-[![SparkSync](https://firebasestorage.googleapis.com/v0/b/flutter-fef59.appspot.com/o/unnamed.png?alt=media&token=5f09deed-05e6-4d22-98dc-4762253218de)](https://play.google.com/store/apps/details?id=com.batau.spark)
-
-**SparkSync** is revolutionizing dating in South Africa. Swipe, match, join local events, and earn 50% of ad revenue just by using the app. Your perfect match is just a swipe away!
-
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.batau.spark)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sparksync.vercel.app/)
-
----
-
-### BaRz - Music Creation & Streaming
-[![BaRz](https://firebasestorage.googleapis.com/v0/b/flutter-fef59.appspot.com/o/ChatGPT_Image_Oct_27__2025__03_11_20_AM-removebg-preview(1).png?alt=media&token=0432ef8c-9a7d-4ae6-8eee-f77f2269a616)](https://play.google.com/store/apps/details?id=com.example.zenith)
-
-**BaRz** is a powerful music creation & streaming mobile application that lets you earn as you create and stream.
-
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.example.zenith)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://batau.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princelekgowane@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princelekgowane)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prince012lekgowane)
 
 </div>
 
-## 🛠️ Technologies & Tools
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate **Full-Stack Developer** specializing in mobile and web development, with expertise in building scalable, production-ready applications. Based in Pretoria, South Africa, I've delivered solutions used by thousands of users across multiple platforms.
+
+- 🌍 **Location:** Pretoria, Gauteng, South Africa
+- 🎯 **Focus:** Cross-platform mobile development, AI/ML integration, enterprise solutions
+- 🚀 **Experience:** 4+ years in software development, 10M+ verifications processed
+- 🧠 **Currently Learning:** Advanced AI/ML, LLM training, Cloud Architecture
+- 💼 **Open to:** Full-time opportunities, freelance projects, collaborations
+
+---
+
+## 🏆 Professional Experience
+
+### **DevOps & Software Engineer** | Dustcom PTY LTD (J-DOTS)
+*2024 - 2025 | Centurion, South Africa*
+
+- Engineered **DOTS**, a comprehensive business optimization platform serving 5,000+ users
+- Integrated payment gateways, AI services, and real-time analytics using Flutter and Firebase
+- Reduced operational costs by 25% through performance optimization
+- Implemented secure, scalable workflows with rigorous cross-device testing
+
+### **Software Engineer** | Old Mutual SMEgo
+*2023 - 2024 | Sandton, Johannesburg*
+
+- Developed features for SMEgo digital platform enabling SME funding, invoicing, and business management
+- Technologies: Flutter, JavaScript, AWS, RESTful APIs
+- Key contributions:
+  - WhatsApp integration for Credit/Debit Notes and Quotes (Android & iOS)
+  - Tap to Pay UI with NFC payment gateway integration
+  - Multi-authentication system with role-based access control
+- Collaborated with UI/UX designers to deliver intuitive, cross-platform experiences
+
+---
+
+## 🚀 Featured Projects
+
+### Enterprise & Professional Applications
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🔵 [DOTS - Professional Consultant Marketplace](https://github.com/prince012lekgowane/dots)
+
+A comprehensive platform connecting clients with professional consultants
+
+**Tech Stack:** Flutter, Firebase, Yoco Payments, Google Maps API, WebRTC
+
+**Features:**
+- Real-time appointment booking & calendar integration
+- End-to-end encrypted messaging & video calls
+- Secure payment processing with automated invoicing
+- Admin dashboard with financial analytics
+- 5,000+ active users
+
+**Impact:** Reduced booking friction by 70%, 99.9% uptime
+
+</td>
+<td width="50%">
+
+#### 🎓 [ZenithAI - AI Learning Companion](https://loadly.io/zenithai)
+
+AI-powered learning platform revolutionizing study methods
+
+**Tech Stack:** Flutter, TensorFlow, Claude API, Firebase ML
+
+**Features:**
+- Personalized AI tutoring & practice questions
+- Smart study schedules & progress tracking
+- Multi-subject support with adaptive learning
+- Offline mode with cloud sync
+
+**Metrics:** 10,000+ downloads, 4.7★ rating
+
+[📱 Download](https://loadly.io/zenithai) | [🌐 Website](https://prince012lekgowane.github.io/zenithai/)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+#### 📰 [NoesisAI - News & Markets Guide](https://loadly.io/noesisai)
+
+AI-powered news analysis and market intelligence platform
+
+**Tech Stack:** Flutter, Firebase, News APIs, Financial Data APIs
+
+**Features:**
+- Real-time news aggregation & AI analysis
+- Market trends & stock insights
+- Personalized content recommendations
+- Portfolio tracking
+
+[📱 Download](https://loadly.io/noesisai) | [🌐 Website](https://prince012lekgowane.github.io/noesis/)
+
+</td>
+<td>
+
+#### 🚖 [EaziHail - Smart Taxi Navigation](https://loadly.io/eazihail)
+
+Navigate South Africa's minibus taxi routes with ease
+
+**Tech Stack:** Flutter, Google Maps API, Firebase Realtime Database
+
+**Features:**
+- Real-time taxi tracking & route planning
+- Fare estimation & payment integration
+- Community-driven route data
+- Offline route maps
+
+**Impact:** Serving 50,000+ commuters monthly
+
+[📱 Download](https://loadly.io/eazihail)
+
+</td>
+</tr>
+</table>
+
+### Development Tools & Utilities
+
+<table>
+<tr>
+<td width="33%">
+
+#### ⚡ [Live Code Editor](https://github.com/prince012lekgowane/live-code-editor)
+
+Browser-based real-time code editor
+
+**Tech:** HTML5, CSS3, Vanilla JS, iframe API
+
+**Features:**
+- Multi-language support (HTML/CSS/JS)
+- Live preview with auto-refresh
+- Code export functionality
+- Zero dependencies
+
+</td>
+<td width="33%">
+
+#### 🎨 [Collaborative Whiteboard](https://github.com/prince012lekgowane/whiteboard)
+
+Real-time digital whiteboard application
+
+**Tech:** React, HTML5 Canvas API, Tailwind CSS
+
+**Features:**
+- Multiple drawing tools
+- Undo/Redo with history management
+- Export to PNG
+- Responsive design
+
+</td>
+<td width="33%">
+
+#### 📋 [Kanban Task Board](https://github.com/prince012lekgowane/kanban)
+
+Professional task management system
+
+**Tech:** React, LocalStorage, Drag & Drop API
+
+**Features:**
+- Drag-and-drop task management
+- Priority levels & due dates
+- Real-time statistics
+- Persistent storage
+
+</td>
+</tr>
+</table>
+
+### Verification & Security Services
+
+#### 🔐 [VerifyPro - Complete Verification Platform](https://github.com/prince012lekgowane/verifypro)
+
+**Enterprise-grade verification services platform**
+
+**Tech Stack:** Flutter, Resend API, Firebase, AWS
+
+**Services Offered:**
+- Email OTP verification (10M+ verifications)
+- Phone verification with SMS/Voice OTP
+- Document verification with AI analysis
+- Push notifications with rich media
+
+**Pricing:** From Free (7-day trial) to Enterprise ($45+/month)
+
+**Key Metrics:**
+- 99.9% uptime guarantee
+- <2s delivery time
+- Trusted by 10,000+ developers
+- Bank-grade security with end-to-end encryption
+
+---
+
+## 🎯 Cultural & Community Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏛️ [Sepulana Heritage - Cultural Preservation](https://loadly.io/CoVNZDbA)
+
+Preserving Batau tribe history, traditions, and language
+
+**Features:**
+- Interactive cultural timeline
+- Language learning modules
+- Traditional stories & customs
+- Community contributions
+
+[📱 Download](https://loadly.io/CoVNZDbA) | [🔗 Links](https://linktr.ee/batau)
+
+</td>
+<td width="50%">
+
+#### 🎮 [Dots Game - Puzzle Challenge](https://play.google.com/store/apps/details?id=com.bataudev.play.dots)
+
+Addictive puzzle game testing strategic thinking
+
+**Tech:** Flutter, Custom game engine
+
+**Features:**
+- Progressive difficulty levels
+- Achievement system
+- Leaderboards
+- Offline gameplay
+
+[📱 Play Store](https://play.google.com/store/apps/details?id=com.bataudev.play.dots)
+
+</td>
+</tr>
+</table>
+
+### Social & Networking Applications
+
+<table>
+<tr>
+<td width="33%">
+
+#### 💬 [Smego App](https://play.google.com/store/search?q=smego+app)
+
+Social platform connecting people through shared interests
+
+[📱 Download](https://play.google.com/store/search?q=smego+app)
+
+</td>
+<td width="33%">
+
+#### 🎵 [BaRz - Music Platform](https://play.google.com/store/apps/details?id=com.example.zenith)
+
+Music creation & streaming with earning opportunities
+
+[📱 Download](https://play.google.com/store/apps/details?id=com.example.zenith)
+
+</td>
+<td width="33%">
+
+#### ⚡ [SparkSync - Dating & Events](https://play.google.com/store/apps/details?id=com.batau.spark)
+
+Dating app with local events and ad revenue sharing
+
+[📱 Download](https://play.google.com/store/apps/details?id=com.batau.spark) | [🌐 Site](https://sparksync.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td colspan="3">
+
+#### 💫 [TlofTlof - Social Connections](https://play.google.com/store/apps/details?id=com.batau.tloftlof)
+
+Casual connections platform with earning opportunities through ad engagement
+
+[📱 Download](https://play.google.com/store/apps/details?id=com.batau.tloftlof) | [🌐 Website](https://tlofapp.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Skills
 
 ### Programming Languages
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift" title="Swift" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
-</p>
+```
+C++ • C# • Dart • Java • JavaScript • TypeScript • Kotlin • Python • Swift
+```
+
+### Mobile Development
+```
+Flutter • React Native • Android (Kotlin/Java) • iOS (Swift) • Cross-platform Architecture
+```
 
 ### Frontend Development
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" alt="Nuxtjs" title="Nuxtjs" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" />
-</p>
+```
+React • Next.js • Nuxt.js • Angular • Vue.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap
+```
 
 ### Backend Development
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" />
-</p>
+```
+Node.js • Django • Flask • Laravel • .NET • RESTful APIs • GraphQL • WebSockets
+```
 
 ### Databases
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" />
-</p>
+```
+Firebase • MongoDB • PostgreSQL • MySQL • Supabase • Oracle • Redis
+```
 
-### Mobile & Cross-Platform
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" />
-</p>
+### Cloud & DevOps
+```
+AWS • Google Cloud • Azure • Docker • Kubernetes • CI/CD • Git • Firebase
+```
 
-### DevOps & Cloud
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
-</p>
+### AI/ML & Data Science
+```
+TensorFlow • Hugging Face • PyTorch • scikit-learn • NLP • Computer Vision
+```
 
-### AI/ML
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" />
-</p>
+### Additional Tools
+```
+Figma • VS Code • Xcode • Android Studio • Postman • Jira • Agile/Scrum
+```
 
-### Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" />
-</p>
+---
 
-## 📱 Connect With Me
-
-<p align="left">
-<a href="https://www.github.com/prince012lekgowane" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/princelekgowane" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-</a>
-<a href="https://www.youtube.com/@bataudev" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" />
-</a>
-</p>
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="http://www.github.com/prince012lekgowane"><img src="https://github-readme-stats.vercel.app/api?username=prince012lekgowane&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="prince012lekgowane's GitHub stats" /></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prince012lekgowane&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
 
-<a href="http://www.github.com/prince012lekgowane"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prince012lekgowane&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prince012lekgowane&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 </div>
 
 ---
 
+## 🎓 Certifications & Education
+
+### Formal Education
+- **National Diploma in ICT** | Tshwane College
+- **C++ Programming** | University of South Africa (UNISA)
+- **Java Programming** | University of South Africa (UNISA)
+
+### Professional Certifications
+- **CompTIA A+** | Hardware & Software Systems
+- **CompTIA Network+** | Network Architecture & Security
+- **Azure Fundamentals (AZ-900)** | Microsoft
+- **Azure Administration** | Microsoft & LinkedIn
+- **Blockchain Basics** | Industry Certification
+- **Digital Marketing** | Google
+
+### Specialized Training
+- **Ethical Hacking** | CompTIA & LinkedIn
+- **Cloud Security (CCSP)** | Cloud Concepts & Architecture
+- **Lean Technology Strategy** | Business Technology
+- **Cisco Network Security** | Firewall Technologies
+
+---
+
+## 🌟 Key Achievements
+
+- 📱 **10+ Published Apps** on Google Play & Huawei AppGallery
+- 👥 **100,000+ Total Downloads** across all applications
+- 🚀 **10M+ Verifications Processed** through VerifyPro platform
+- ⚡ **99.9% Uptime** maintained across production systems
+- 💰 **25% Cost Reduction** through optimization at Dustcom
+- 🎤 **1st Place Public Speaking** | International Toastmasters
+- 🏆 **Featured Developer** in local tech communities
+
+---
+
+## 💼 Services Offered
+
+### For Businesses
+- Custom mobile & web application development
+- Legacy system modernization
+- Cloud migration & DevOps setup
+- Technical consulting & architecture design
+- API development & integration
+
+### For Startups
+- MVP development
+- Scalability planning
+- Tech stack selection
+- Performance optimization
+- Deployment & maintenance
+
+### For Enterprises
+- Enterprise application development
+- System integration
+- Security audits & implementation
+- Team training & mentorship
+- Long-term technical partnerships
+
+---
+
+## 📫 Get In Touch
+
+I'm always open to discussing new opportunities, interesting projects, or potential collaborations.
+
+**Email:** [princelekgowane@gmail.com](mailto:princelekgowane@gmail.com)  
+**Portfolio:** [batau.vercel.app](http://batau.vercel.app/)  
+**LinkedIn:** [linkedin.com/in/princelekgowane](https://www.linkedin.com/in/princelekgowane)  
+**GitHub:** [github.com/prince012lekgowane](https://github.com/prince012lekgowane)  
+**YouTube:** [@bataudev](https://www.youtube.com/@bataudev)  
+**Linktree:** [linktr.ee/batau](https://linktr.ee/batau)
+
+**WhatsApp:** [+27 68 976 2588](https://wa.me/27689762588)  
+**Alternative:** +27 68 338 4158
+
+---
+
+## 🤝 Open to Opportunities
+
+- ✅ Full-time software engineering positions
+- ✅ Contract & freelance projects
+- ✅ Technical consulting engagements
+- ✅ Startup collaborations
+- ✅ Open-source contributions
+- ✅ Speaking engagements & workshops
+
+---
+
 <div align="center">
-  
-### 💡 Always building, learning, and creating innovative solutions
-  
-**Check out my portfolio for more projects:** [batau.vercel.app](http://batau.vercel.app/)
-  
+
+### 💡 Building innovative solutions that bridge the digital gap
+
+**Let's create something amazing together!**
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://batau.vercel.app/)
+[![Contact](https://img.shields.io/badge/Contact_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27689762588)
+
+---
+
+⭐ **Star my repositories** if you find them useful!  
+🤝 **Connect with me** for collaboration opportunities
+
+© 2025 Tumelo Prince Lekgowane | All Rights Reserved
+
 </div>
