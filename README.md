@@ -5,7 +5,6 @@
 ### Full-Stack Developer | Mobile App Specialist | AI/ML Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tumelo-lekgowane.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princelekgowane@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princelekgowane)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prince012lekgowane)
 
@@ -414,8 +413,7 @@ Figma • VS Code • Xcode • Android Studio • Postman • Jira • Agile/Sc
 ## 📫 Get In Touch
 
 I'm always open to discussing new opportunities, interesting projects, or potential collaborations.
-
-**Email:** [princelekgowane@gmail.com](mailto:princelekgowane@gmail.com)  
+ 
 **Portfolio:** [batau.vercel.app](http://batau.vercel.app/)  
 **LinkedIn:** [linkedin.com/in/princelekgowane](https://www.linkedin.com/in/princelekgowane)  
 **GitHub:** [github.com/prince012lekgowane](https://github.com/prince012lekgowane)  
